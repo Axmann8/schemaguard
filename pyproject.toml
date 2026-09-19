@@ -8,6 +8,7 @@ version = "1.4.2"
 description = "Lightweight schema-validation guard for data pipelines."
 readme = "README.md"
 requires-python = ">=3.9"
+license = "MIT"
 
 [project.urls]
 Homepage = "https://github.com/Axmann8/schemaguard"
